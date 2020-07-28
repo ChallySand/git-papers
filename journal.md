@@ -2,4 +2,4 @@
 
 Authored by: Chaleece
 
-Introduction
+Introduction based on results from Smith (2009).
